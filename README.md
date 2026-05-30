@@ -1,3 +1,4 @@
+#متود فعلا مختل شده، صبور باشید درستش می کنم خیلی درگیرم... اگه دانشش رو دارید فورک کنید و درستش کنید و تلگرام بهم بگید
 # ⚠️ Important Usage & Security Notice
 
 - Public configs in this repository are intended **only for normal usage** such as browsing websites and social media.
